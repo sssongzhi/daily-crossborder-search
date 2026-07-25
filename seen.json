@@ -745,5 +745,33 @@
     "analyzed_at": "2026-07-23T02:36:25.081741+00:00",
     "analysis_score": 67,
     "analysis_source": "今日新增"
+  },
+  "1264725565": {
+    "full_name": "hhdhh/atlas-mercator",
+    "stars": 4,
+    "category": "AI Agent/自动化",
+    "description": "Multi-agent control plane for cross-border e-commerce: LangChain + Claude ReAct workflows, RAG, and ERP/CRM-style tool integration. 跨境电商多 Agent 调度中枢：LangChain + Claude + RAG + ERP/CRM 工具集成。",
+    "html_url": "https://github.com/hhdhh/atlas-mercator",
+    "language": "Python",
+    "topics": [
+      "agentic-workflow",
+      "ai-agent",
+      "claude",
+      "cross-border-ecommerce",
+      "gradio",
+      "langchain",
+      "langgraph",
+      "multi-agent",
+      "prompt-engineering",
+      "rag",
+      "react-pattern",
+      "tool-use"
+    ],
+    "created_at": "2026-06-10T06:07:07Z",
+    "pushed_at": "2026-06-10T06:25:18Z",
+    "first_seen": "2026-07-25T02:31:26.060623+00:00",
+    "analyzed_at": "2026-07-25T02:31:26.377840+00:00",
+    "analysis_score": 72,
+    "analysis_source": "今日新增"
   }
 }
