@@ -773,5 +773,40 @@
     "analyzed_at": "2026-07-25T02:31:26.377840+00:00",
     "analysis_score": 72,
     "analysis_source": "今日新增"
+  },
+  "1177410139": {
+    "full_name": "itallstartedwithaidea/advertising-hub",
+    "stars": 30,
+    "category": "Skill/提示词模板",
+    "description": "The open-source one-stop shop for advertising platform APIs, MCP servers, AI agents, and PPC automation. 14 platforms (Google Ads, Meta, Microsoft, Amazon, LinkedIn, Pinterest, Reddit, Spotify, TTD, Criteo). 25+ AI agents. Production tooling for digital marketers and developers.",
+    "html_url": "https://github.com/itallstartedwithaidea/advertising-hub",
+    "language": "Markdown",
+    "topics": [
+      "advertising-ai",
+      "advertising-automation",
+      "advertising-hub",
+      "ai-agents",
+      "amazon-ads",
+      "campaign-management",
+      "digital-marketing",
+      "gemini-cli",
+      "google-ads",
+      "mcp",
+      "meta-ads",
+      "microsoft-ads",
+      "model-context-protocol",
+      "open-source",
+      "paid-media",
+      "performance-marketing",
+      "ppc",
+      "ppc-automation",
+      "programmatic-advertising"
+    ],
+    "created_at": "2026-03-10T02:05:18Z",
+    "pushed_at": "2026-07-21T14:04:54Z",
+    "first_seen": "2026-07-26T02:38:30.830628+00:00",
+    "analyzed_at": "2026-07-26T02:38:31.242439+00:00",
+    "analysis_score": 88,
+    "analysis_source": "今日新增"
   }
 }
